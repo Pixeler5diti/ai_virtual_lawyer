@@ -46,17 +46,6 @@ Example queries:
 "How to file for divorce in California?"
 ```
 
-## 📂 Project Structure
-```
-ai_virtual_lawyer/
-├── src/                   # Main source code
-│   ├── app.py             # Main application
-│   ├── model.py           # AI model implementation
-│   └── processor.py       # NLP processing
-├── tests/                 # Unit tests
-├── requirements.txt       # Dependencies
-└── data/                  # Legal datasets (add to .gitignore if private)
-```
 
 ## 🤝 Contributing
 1. Fork the project
