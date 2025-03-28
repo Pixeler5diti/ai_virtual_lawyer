@@ -59,6 +59,6 @@ This AI does not provide legal advice. Consult a qualified attorney for legal de
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
-```
+
 
 
