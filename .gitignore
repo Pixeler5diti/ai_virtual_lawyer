@@ -1,3 +1,7 @@
 __pycache__/
-*.pyc
+*.py[cod]
+venv/
+data/legal_documents/ 
 .vscode/
+.idea/
+.DS_Store
